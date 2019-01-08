@@ -6,13 +6,14 @@ hola --red***leeme***red--
 [Gonzalo!](http://www.youtube.com)
 
 * New list element
-- Numeros
- * uno
- * dos 
- * tres
- * cuatro
- * cinco
- - seis
+
+* Numeros
+  * uno
+  * dos 
+  * tres
+  * cuatro
+  * cinco
+  - seis
  
 * colores
  * negro
