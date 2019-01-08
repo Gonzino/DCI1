@@ -1,6 +1,6 @@
 # DCI1
 ## readme
-hola --red***leeme***red--
+hola ***leeme***
 @octocat #### ahora
 ##### por favor
 :+1: [Gonzalo!](http://www.youtube.com)
