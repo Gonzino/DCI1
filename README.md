@@ -1,6 +1,6 @@
 # DCI1
 ## readme
-hola // leeme
+hola --red ***leeme*** --
 #### ahora
 ##### por favor
 ## © Gonzalo
