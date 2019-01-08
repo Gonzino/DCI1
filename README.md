@@ -3,7 +3,7 @@
 hola --red***leeme***red--
 @octocat #### ahora
 ##### por favor
-[Gonzalo!](http://www.youtube.com)
+:+1: [Gonzalo!](http://www.youtube.com)
 
 * New list element
 
