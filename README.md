@@ -15,9 +15,9 @@ hola --red***leeme***red--
   * cinco
   - seis
 * colores
-  * negro
-  * Verde
-  * rojo
+  - negro
+  - Verde
+  - rojo
 
 ```
 She was more like a beauty queen from a movie scene
